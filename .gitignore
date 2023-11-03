@@ -1,0 +1,29 @@
+# Entornos Virtuales
+venv/
+
+# Bytecode de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de base de datos
+*.db
+*.sqlite3
+
+# Archivos de configuración locales
+config.py
+
+# IDEs y editores
+.vscode/
+
+# Archivos de log
+*.log
+
+# Archivos temporales o de backup
+*~
+
+# Dependencias
+.eggs/
+*.egg-info/
+dist/
+build/
